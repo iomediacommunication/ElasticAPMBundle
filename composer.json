@@ -1,5 +1,5 @@
 {
-    "name": "iomediacommunications/elastic-apm-bundle",
+    "name": "iomediacommunication/elastic-apm-bundle",
     "description": "Elastic APM Client for Symfony",
     "type": "symfony-bundle",
     "require": {
